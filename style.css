@@ -1,5 +1,5 @@
 #main {
-background-color:darkblue;
+background-color:darkgrey;
 border: 1px solid;
 border-color:grey;
 color:darkblue;
@@ -7,6 +7,6 @@ font-family: 'Arial', sans-serif;
 padding: 0px 20px 20px 20px;
 width: 80%;
 height:auto;
-margin-left: 20%;
-margin-right: 20%;
+margin-left: 10%;
+margin-right: 10%;
 }
