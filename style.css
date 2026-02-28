@@ -1,8 +1,12 @@
+body {
+  bockground-color: midnight-blue;
+}
+
 #main {
-background-color:darkgrey;
+background-color:slategrey;
 border: 1px solid;
-border-color:grey;
-color:darkblue;
+border-color:steelblue;
+color:aqua;
 font-family: 'Arial', sans-serif;
 padding: 0px 20px 20px 20px;
 width: 80%;
